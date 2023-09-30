@@ -1,0 +1,42 @@
+body {
+	font-family: sans-serif;
+	background-image: url('background_image.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+    background-position: center;    
+	font-family: sans-serif
+}
+h1, p {
+	text-align:center;
+}
+h1, h2, h3, h4 {
+	color: #CC5656;
+}
+tr:nth-child(odd) {
+    background-color: pink;
+}
+tr:nth-child(even) {
+    background-color: beige;
+}
+a:hover{
+  color: green;
+}
+
+.compsci {
+	color:red;
+	font-weight:bold
+}
+.gsu {
+	color:red;
+	font-weight:bold
+}
+.bachelor {
+	color:red;
+	font-weight:bold
+}
+.interests {
+	color:red;
+	font-weight:bold
+}
+
